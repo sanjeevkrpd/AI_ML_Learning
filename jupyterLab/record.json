@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Sanjeev Kumar",
+        "email": "sanjeevkrpd11@gmail.com",
+        "age": 22,
+        "paymentStatus": true,
+        "rating" : "4"
+    },
+    {
+        "name": "Rahul Sharma",
+        "email": "rahul123@gmail.com",
+        
+        "paymentStatus": false,
+        "rating" : "three"
+    },
+    {
+        "name": "Priya Singh",
+        "email": "priya.singh@gmail.com",
+        "age": 23,
+        "paymentStatus": true,
+        "rating" : "4.5"
+    },
+    {
+        "name": "Amit Verma",
+        "email": "amit.verma@gmail.com",
+        "age": 27,
+        "paymentStatus": false,
+        "rating" : "3"
+    },
+    {
+        "name": "Neha Gupta",
+        "email": "neha.gupta@gmail.com",
+        "age": 24,
+        "paymentStatus": true,
+        "rating" : "4"
+    },
+{
+        "name": "Sanjeev Kumar",
+        "email": "sanjeevkrpd11@gmail.com",
+        "age": 22,
+        "paymentStatus": true,
+        "rating" : "2"
+    }
+]
